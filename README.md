@@ -41,7 +41,6 @@ cat scroll
 ```
 
 You are now playing the game.
-May the gods save you.
 
 ## Restarting the game
 
